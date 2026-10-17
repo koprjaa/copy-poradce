@@ -1,6 +1,6 @@
 # copy-poradce
 
-Skill pro Claude Code, který píše a reviduje české klientské texty (blogy, newslettery, direct e-maily, weby, landing pages) podle stylového profilu a sady pravidel copywritingu.
+Skill pro Claude Code na psaní a revizi českých textů.
 
 Osobní nástroj jednoho autora. Profil stylu a pravidla jsou vytěžené z korpusu 111 blogových článků, který v repu není.
 
